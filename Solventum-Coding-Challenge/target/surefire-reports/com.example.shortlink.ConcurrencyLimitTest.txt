@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.shortlink.ConcurrencyLimitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.183 s - in com.example.shortlink.ConcurrencyLimitTest
